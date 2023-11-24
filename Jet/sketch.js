@@ -157,7 +157,7 @@ function draw() {
     }
 
     if (score == score2) {
-      text("A tie! " + score2 + " 1 ", 500, 150);
+      text("A tie!", 500, 150);
     }
 
     text("Press 'R' to try again!", 500, 300);
